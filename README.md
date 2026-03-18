@@ -4,7 +4,6 @@ Optional project of the [Streaming Data Analytics](https://emanueledellavalle.or
 
 Student: **[To be assigned]**
 
-**DISCLAIMER**: This project requires a strong background in deep learning, Computer Vision (CNNs), and Python programming (PyTorch and Avalanche).
 _____
 # Brief Description
 This project focuses on reproducing the core experiments and results from the [2023 paper](https://arxiv.org/pdf/2306.16817) *"Improving Online Continual Learning Performance and Stability with Temporal Ensembles"* by Soutif-Cormerais et al.
