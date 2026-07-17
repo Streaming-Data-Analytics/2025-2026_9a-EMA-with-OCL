@@ -2,7 +2,7 @@
 
 Optional project of the [Streaming Data Analytics](https://emanueledellavalle.org/teaching/streaming-data-analytics-2025-26/) course provided by Politecnico di Milano.
 
-Student: **[To be assigned]**
+Student: **Gianpaolo Busillo**
 
 _____
 # Brief Description
